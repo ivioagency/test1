@@ -1,19 +1,13 @@
-# Test 1
+# Sparkling
 
-This repo contains a wordpress theme, you are required to fork it and add 
-everything that's necessary in order for it to run locally with docker using 
-command `docker-compose up`.
+## Installation
 
-You are allowed to ask any question, but to do so, you'll need to create a merge
-request to this repo, modifying this readme file. The questions should be precise.
+Docker and Docker compose are required.
 
+Create your .env file, fill in the blanks, and then run docker-compose.
 
-## Questions here:
+```bash
+ cp .env.example .env
 
-Q: Is my question stupid? 
-A: There is no such thing.
-
-
-
-
-
+ docker-compose up
+```
