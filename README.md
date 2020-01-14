@@ -1,17 +1,19 @@
 # Test 1
 
-This repo contains a wordpress theme, you are required to fork it and add 
-everything that's necessary in order for it to run locally with docker using 
-command `docker-compose up`.
-
-You are allowed to ask any question, but to do so, you'll need to create a merge
-request to this repo, modifying this readme file. The questions should be precise.
+I've installed the theme provided to see it working there are two users create ; **test1** and **test2** ( *both same user and passwd* ) you can access with any of them.
 
 
-## Questions here:
+After clone this repo, please run `docker-compose up -d` in order start *db* and *wp* containers.
 
-Q: Is my question stupid? 
-A: There is no such thing.
+For anything else, please let me know.
+
+Best regards.
+
+
+##### PD:
+
+The theme provided weighed more than what is allowed by wordpress (2M) so, I modified the .htaccess file to allow uploading files larger
+
 
 
 
