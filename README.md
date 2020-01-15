@@ -1,19 +1,10 @@
 # Test 1
 
-I've installed the theme provided to see it working there are two users create ; **test1** and **test2** ( *both same user and passwd* ) you can access with any of them.
+I Do not understand the requeriment, Until I know it's not possible to run just the folder wp-content
 
+Could you please being more expesifically?
 
-After clone this repo, please run `docker-compose up -d` in order start *db* and *wp* containers.
-
-For anything else, please let me know.
-
-Best regards.
-
-
-##### PD:
-
-The theme provided weighed more than what is allowed by wordpress (2M) so, I modified the .htaccess file to allow uploading files larger
-
+I need more info about what it's exaclty that Im supose to up in docker.
 
 
 
