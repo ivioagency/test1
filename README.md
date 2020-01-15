@@ -1,5 +1,7 @@
 # Test 1
 
+
+.....
 I Do not understand the requeriment, Until I know it's not possible to run just the folder wp-content
 
 Could you please being more expesifically?
